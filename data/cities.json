@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Faro",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 3243335
+    },
+    {
+      "cityName": "Borriol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-26T19:09:03.539Z",
+      "notes": "nn",
+      "position": {
+        "lat": "40.03106333580071",
+        "lng": "-0.05527496337890626"
+      },
+      "id": 124324333
+    },
+    {
+      "cityName": "Borriol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-27T07:44:46.682Z",
+      "notes": "ddw",
+      "position": {
+        "lat": "40.039218084713475",
+        "lng": "-0.08840560913085938"
+      },
+      "id": 124324334
+    }
+  ]
+}
